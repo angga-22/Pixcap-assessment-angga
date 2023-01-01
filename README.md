@@ -1,9 +1,8 @@
 # [PIXCAP] FRONTEND TEST
-> TS code task
 
-## Set up
-`npm install`
-
-`npm start`
-
-Inspect element > check console log for test results
+## Instruction how to run program.
+`1. clone code`
+`2. run npm install`
+`3. run npm start`
+`4. inspect element from browser`
+`5. check the result from console inspection`
